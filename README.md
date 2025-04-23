@@ -65,7 +65,7 @@ pip install -U mrl-pypi
 1. Clone the repository:
    ```bash
    git clone https://github.com/gabrielcesar-dev/tutorials-proteins.git
-   cd mrl/nbs/tutorials
+   cd tutorials-proteins/nbs/tutorials
    ```
 2. Open and run the `tutorials.proteins.amp.ipynb` notebook using Jupyter or a compatible environment.
 
